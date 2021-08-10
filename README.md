@@ -1,16 +1,20 @@
 ### Hi there 👋
 
+#### I'm a student, learning programming by myself.
+
+##### NOW
+
+- 💡 Planning my most recent project, Hyppy World;
+- 🇵🇹 What about this?
+
+##### BIO
+
+- 👨‍🎓	I'm currently studying
+- ⚙️ I use daily: `.py`, `.html`, `.psd`, `.pdf`, `.docx`
+- ✍️ Designed: [Hyppy-World](https://hyppy-world.github.io/), etc…
+- 💬 Ping me about any sort of project
+- 📫 Reach me: [twitter.com/Hugoverissimo21](https://twitter.com/Hugoverissimo21)
+
 <!--
-**Hugoverissimo21/hugoverissimo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+this is a comment
 -->
