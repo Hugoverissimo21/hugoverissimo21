@@ -13,7 +13,7 @@
 - ⚙️ I use daily: `.py`, `.html`, `.psd`, `.pdf`, `.docx`
 - ✍️ Designed: [Hyppy-World](https://hyppy-world.github.io/), etc…
 - 💬 Ping me about any sort of project
-- 📫 Reach me: [https://twitter.com/Hugover21](https://twitter.com/Hugover21)
+- 📫 Reach me: [twitter.com/Hugover21](https://twitter.com/Hugover21)
 
 <!--
 this is a comment
