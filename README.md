@@ -10,7 +10,7 @@
 ##### BIO
 
 - 👨‍🎓	I'm currently studying
-- ⚙️ I use daily: `.py`, `.html`, `.psd`, `.pdf`, `.docx`
+- ⚙️ I use daily: `.py`, `.csvl`, `.xlsx`, `.docx`, `.pdf`, `.psd`
 - ✍️ Designed: [Hyppy-World](https://hyppy-world.github.io/), etc…
 - 💬 Ping me about any sort of project
 - 📫 Reach me: [twitter.com/Hugoverissimo21](https://twitter.com/Hugoverissimo21)
